@@ -42,7 +42,7 @@
 
 <img width="391" height="530" alt="Image" src="https://github.com/user-attachments/assets/abe3d5d2-f005-4f25-82db-7b3d77c0bf13" />
 
-### результат выполнения сборки
+### Результат выполнения сборки
 
 <img width="410" height="120" alt="Image" src="https://github.com/user-attachments/assets/191c7106-58d9-46c3-8f35-84ce4b759307" />
 
