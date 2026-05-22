@@ -18,7 +18,7 @@
 
 ### Компиляция и запуск программы
 
-<img width="630" height="203" alt="Image" src="https://github.com/user-attachments/assets/7106d662-1ae7-4566-9c3b-02cca489a799" />
+<img width="630" height="151" alt="Image" src="https://github.com/user-attachments/assets/e5be37a8-b3bf-49e4-8b42-7f70321431c1" />
 
 ## 2. Компиляция в ассемблерный код
 
