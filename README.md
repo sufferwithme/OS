@@ -56,3 +56,6 @@
 
 <img width="388" height="604" alt="Image" src="https://github.com/user-attachments/assets/911fdf4a-941e-4065-9590-0a46d7baad3b" />
 
+### Лабораторная работа №2
+
+## Смотрите файл linux_lab2.mp4
