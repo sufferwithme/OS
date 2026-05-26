@@ -82,7 +82,7 @@
 
 <img width="507" height="116" alt="Image" src="https://github.com/user-attachments/assets/4c27da76-3d2f-44e6-a4de-f2ce42ade5f7" />
 
-#### Все изображения скопированы в резервную папку
+#### Как мы видим, все изображения скопированы в резервную папку
 
 ## 3B. Реализация на PowerShell
 
