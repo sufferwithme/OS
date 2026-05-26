@@ -59,3 +59,41 @@
 ## Лабораторная работа №2
 
 ### Смотрите файл linux_lab2.mp4
+
+## Лабораторная работа №3
+
+## Вариант 1. Скопировать из все изображения в папку резервного хранения
+
+## 3A. Реализация скрипта bash
+
+### Установливаем редактор nano, так как в Arch Linux он не установлен по умолчанию
+
+<img width="1289" height="481" alt="Image" src="https://github.com/user-attachments/assets/3668de24-83c5-4bcb-81a7-46daa2f39c6d" />
+
+### Создаём папку и открываем редактора nano
+
+<img width="350" height="160" alt="Image" src="https://github.com/user-attachments/assets/adbad346-4d98-47a2-b1e4-6c73706d81fd" />
+
+### Скрипт backup.sh
+
+<img width="341" height="120" alt="Image" src="https://github.com/user-attachments/assets/78af7f78-8522-482c-bdcf-a48f5e514536" />
+
+### Делаем скрипт исполняемым и тестируем
+
+<img width="507" height="116" alt="Image" src="https://github.com/user-attachments/assets/4c27da76-3d2f-44e6-a4de-f2ce42ade5f7" />
+
+#### Все изображения скопированы в резервную папку
+
+## 3B. Реализация на PowerShell
+
+### Создаём папку и файл скрипта
+
+<img width="412" height="228" alt="Image" src="https://github.com/user-attachments/assets/b651c85b-31e5-4d55-80cf-4ce27434fc34" />
+
+### Пишем скрипт в блокноте
+
+<img width="383" height="149" alt="Image" src="https://github.com/user-attachments/assets/91bec977-1d16-488d-90ee-148d9b50f853" />
+
+### Тестируем
+
+<img width="461" height="395" alt="Image" src="https://github.com/user-attachments/assets/c783dc37-ba89-4b52-b2a6-294468489d97" />
