@@ -66,7 +66,7 @@
 
 ## 3A. Реализация скрипта bash
 
-### Установливаем редактор nano, так как в Arch Linux он не установлен по умолчанию
+### Устанавливаем редактор nano, так как в Arch Linux он не установлен по умолчанию
 
 <img width="1289" height="481" alt="Image" src="https://github.com/user-attachments/assets/3668de24-83c5-4bcb-81a7-46daa2f39c6d" />
 
